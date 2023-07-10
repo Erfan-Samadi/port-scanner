@@ -1,7 +1,7 @@
 # port-scanner
 scans the ports of the target and tells you if it's open or not.
 
-#how to work
+#how-to-work
 when you run it, it will demand you to put the target or targets (if its multiple seperate them by ",")
 then you enter the number of ports for scan and it starts scanning.
 
